@@ -21,6 +21,7 @@ Node/
 ├── index.html     # Frontend da aplicação
 ├── style.css      # Estilos do frontend
 ├── tasks.json     # Banco de dados simples (JSON)
+├── screenshot.png # Print do frontend
 └── README.md      # Este arquivo
 ```
 
@@ -51,8 +52,8 @@ curl -X PUT http://localhost:3000/tasks/ID_DA_TAREFA
 curl -X DELETE http://localhost:3000/tasks/ID_DA_TAREFA
 ```
 
-## Prints de exemplo
-> ![Exemplo do frontend](https://user-images.githubusercontent.com/placeholder/todo-front.png)
+## Print do frontend
+![Exemplo do frontend](./screenshot.png)
 
 ## Licença
 MIT
