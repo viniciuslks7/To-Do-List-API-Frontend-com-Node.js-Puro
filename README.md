@@ -52,7 +52,8 @@ curl -X DELETE http://localhost:3000/tasks/ID_DA_TAREFA
 ```
 
 ## Prints de exemplo
-> ![Exemplo do frontend](https://user-images.githubusercontent.com/placeholder/todo-front.png)
+> ![Exemplo do frontend](![image](https://github.com/user-attachments/assets/93f6eba3-f243-4848-9810-bdeec6727870)
+)
 
 ## Licença
 MIT
